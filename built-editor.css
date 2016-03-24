@@ -21,7 +21,7 @@
 	border-left: 1px solid #eaeaea;
 }
 .textviewBlockCursor {
-	background: black;
+	background: red;
 	opacity: 0.4;
 }
 .ruler {
